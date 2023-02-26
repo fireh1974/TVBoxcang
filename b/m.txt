@@ -1,5 +1,5 @@
 {
 "storeHouse":[
-{"sourceName":"私人仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/fireh1974/TVBoxcang/main/1"}
+{"sourceName":"私人仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/fireh1974/TVBoxcang/main/b/1"}
 ]
 }
