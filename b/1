@@ -2,7 +2,7 @@
 "urls":[
 //{"url":"","name":"接口"},
 {
-"url":"https://raw.iqiq.io/zhaxp/b/main/z.json",
+"url":"https://ghproxy.com/https://raw.githubusercontent.com/fireh1974/TVBoxcang/main/b/z.json",
 "name":"自测接口"
 },
 {
