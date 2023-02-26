@@ -1,5 +1,5 @@
 {
-"spider":"./jar/Yoursmile.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/fireh1974/TVBoxcang/main/b/jar/Yoursmile.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://ghproxy.net/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/live.txt"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites":[
